@@ -6,7 +6,7 @@ Finance-Assistant Swarm Agent Collaboration is a modular, multi-agent system des
 
 By leveraging shared memory and coordinated agent workflows, the system transforms raw data from APIs and web sources into a polished, structured Markdown or HTML report. The orchestrator uses natural language reasoning and synthesis (via Amazon Nova) to integrate the findings into actionable insights. The architecture supports flexible deployment, modular agent execution, and scalable financial intelligence delivery for developers, analysts, and automated trading systems.
 
-![Architecture](Image/architecture_stock_swarm.png)
+![](/Image/quantitativeAgent.png)
 
 ## 1. What is this?
 
